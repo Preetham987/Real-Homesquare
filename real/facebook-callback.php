@@ -1,9 +1,9 @@
 <?php
 // facebook-callback.php
 
-$app_id = '752849183281927-fhjwsc7282cnswnev.apps.facebookusercontent.com';
-$app_secret = 'a3f8b4d5e7c946fa8be27c77f9a41e7a';
-$redirect_uri = 'https://rigvesoft.com/homesquare/real-estate-panels-2/real/facebook-callback.php';
+$app_id = '';
+$app_secret = '';
+$redirect_uri = '';
 
 if (!isset($_GET['code'])) {
     exit('No code parameter found');

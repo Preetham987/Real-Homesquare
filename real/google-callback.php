@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-$client_id = "335879000635-vqqc22vbkvcrvsjdcc9d5gv1cqf89jk9.apps.googleusercontent.com";
-$client_secret = "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";
-$redirect_uri = "https://rigvesoft.com/homesquare/real-estate-panels-2/real/google-callback.php";
+$client_id = "";
+$client_secret = "";
+$redirect_uri = "";
 
 if (isset($_GET['code'])) {
     $code = $_GET['code'];
