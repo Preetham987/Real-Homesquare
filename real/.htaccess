@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /homesquare/real-estate-panels-2/real/
+
+# Rewrite slug to listing-single.php?slug=slug-value
+RewriteRule ^([a-zA-Z0-9\-]+)$ listing-single.php?slug=$1 [L,QSA]

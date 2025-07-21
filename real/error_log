@@ -1,0 +1,2400 @@
+[26-Mar-2025 05:50:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:51:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 05:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xpnjceiy_homesqure.services' doesn't exist in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php:37
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php(37): mysqli->query('SELECT service_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/index-fetch-code.php on line 37
+[26-Mar-2025 06:11:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:25
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(25): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 25
+[26-Mar-2025 06:11:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:25
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(25): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 25
+[26-Mar-2025 06:12:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:25
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(25): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 25
+[26-Mar-2025 06:14:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:14:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:15:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:15:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:16:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:17:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php:13
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php(13): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single.php on line 13
+[26-Mar-2025 06:30:48 UTC] Received ID: 0
+[26-Mar-2025 06:31:13 UTC] Received ID: 0
+[26-Mar-2025 06:31:15 UTC] Received ID: 0
+[26-Mar-2025 06:31:20 UTC] Received ID: 0
+[26-Mar-2025 06:31:20 UTC] Received ID: 0
+[26-Mar-2025 06:31:20 UTC] Received ID: 0
+[26-Mar-2025 06:31:21 UTC] Received ID: 0
+[26-Mar-2025 06:31:21 UTC] Received ID: 0
+[26-Mar-2025 06:31:21 UTC] Received ID: 0
+[26-Mar-2025 06:31:44 UTC] Received ID: 0
+[26-Mar-2025 06:33:41 UTC] Received ID: 53
+[26-Mar-2025 06:33:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:25
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(25): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 25
+[26-Mar-2025 06:38:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:38:04 UTC] Received ID: 53
+[26-Mar-2025 06:38:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:38:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:38:18 UTC] Received ID: 53
+[26-Mar-2025 06:38:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:38:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:38:52 UTC] Received ID: 53
+[26-Mar-2025 06:38:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:40:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:40:40 UTC] Received ID: 53
+[26-Mar-2025 06:40:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:40:52 UTC] Received ID: 53
+[26-Mar-2025 06:40:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:40:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:40:58 UTC] Received ID: 53
+[26-Mar-2025 06:40:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:42:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:42:00 UTC] Received ID: 53
+[26-Mar-2025 06:42:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:42:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:42:14 UTC] Received ID: 53
+[26-Mar-2025 06:42:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:42:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:42:17 UTC] Received ID: 53
+[26-Mar-2025 06:42:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:42:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:1) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 5
+[26-Mar-2025 06:42:35 UTC] Received ID: 53
+[26-Mar-2025 06:42:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:26
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(26): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 26
+[26-Mar-2025 06:43:57 UTC] PHP Notice:  ob_clean(): Failed to delete buffer. No buffer to delete in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 4
+[26-Mar-2025 06:43:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:4) in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 8
+[26-Mar-2025 06:43:57 UTC] Received ID: 53
+[26-Mar-2025 06:43:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price_per_sqft' in 'field list' in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php:30
+Stack trace:
+#0 /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php(30): mysqli->prepare('SELECT project_...')
+#1 {main}
+  thrown in /home/xpnjceiy/rigvesoft.com/homesquare/real-estate-panels-2/real/listing-single-fetch-code.php on line 30
+[2025-05-16 07:31:16] Fetching unique project locations...
+[2025-05-16 07:31:16] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:37:20] Fetching unique project locations...
+[2025-05-16 07:37:20] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:39:15] Fetching unique project locations...
+[2025-05-16 07:39:15] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:39:17] Fetching unique project locations...
+[2025-05-16 07:39:17] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:39:18] Fetching unique project locations...
+[2025-05-16 07:39:18] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:40:33] Fetching unique project locations...
+[2025-05-16 07:40:33] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:40:37] Fetching unique project locations...
+[2025-05-16 07:40:37] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:41:41] Fetching unique project locations...
+[2025-05-16 07:41:41] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:41:44] Fetching unique project locations...
+[2025-05-16 07:41:44] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:43:55] Fetching unique project locations...
+[2025-05-16 07:43:55] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:44:31] Fetching unique project locations...
+[2025-05-16 07:44:31] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:45:04] Fetching unique project locations...
+[2025-05-16 07:45:04] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:45:26] Fetching unique project locations...
+[2025-05-16 07:45:26] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:45:53] Fetching unique project locations...
+[2025-05-16 07:45:53] Locations fetched: ["Pune","Delhi","Bangalore"]
+[2025-05-16 07:46:05] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:46:05] Projects fetched: 1
+[2025-05-16 07:46:09] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 07:46:09] Projects fetched: 3
+[2025-05-16 07:46:15] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:46:15] Projects fetched: 1
+[2025-05-16 07:46:54] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:46:54] Projects fetched: 1
+[2025-05-16 07:46:58] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 07:46:58] Projects fetched: 3
+[2025-05-16 07:49:45] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:49:45] Projects fetched: 1
+[2025-05-16 07:49:47] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 07:49:47] Projects fetched: 3
+[2025-05-16 07:50:32] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:50:32] Projects fetched: 1
+[2025-05-16 07:50:35] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 07:50:35] Projects fetched: 3
+[2025-05-16 07:52:41] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:52:41] Projects fetched: 1
+[2025-05-16 07:52:44] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 07:52:44] Projects fetched: 3
+[2025-05-16 07:57:53] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 07:57:53] Projects fetched: 1
+[2025-05-16 09:08:36] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 09:08:36] Projects fetched: 1
+[2025-05-16 09:13:26] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Apartment'
+[2025-05-16 09:13:26] Projects fetched: 1
+[2025-05-16 09:13:29] Fetching projects with SQL: SELECT * FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_type = 'Villa'
+[2025-05-16 09:13:29] Projects fetched: 3
+[16-May-2025 10:30:05 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+    (min_price BETWEEN 52493 AND 83380)
+    OR
+    (max_price BETWEEN 52493 AND 83380)
+)
+[16-May-2025 10:34:20 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+    (min_price BETWEEN 37564 AND 89578)
+    OR
+    (max_price BETWEEN 37564 AND 89578)
+)
+[16-May-2025 10:34:24 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+    (min_price BETWEEN 100 AND 100000)
+    OR
+    (max_price BETWEEN 100 AND 100000)
+)
+[16-May-2025 10:34:26 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+    (min_price BETWEEN 100 AND 100000)
+    OR
+    (max_price BETWEEN 100 AND 100000)
+)
+[16-May-2025 10:34:33 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Apartment' AND project_area BETWEEN 1 AND 10000 AND (
+    (min_price BETWEEN 100 AND 100000)
+    OR
+    (max_price BETWEEN 100 AND 100000)
+)
+[16-May-2025 10:42:58 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 89393 AND 100000)
+        OR
+        (max_price BETWEEN 89393 AND 100000)
+    ) AND (
+    (min_price BETWEEN 89393 AND 100000)
+    OR
+    (max_price BETWEEN 89393 AND 100000)
+)
+[16-May-2025 10:43:52 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 100 AND 27326)
+        OR
+        (max_price BETWEEN 100 AND 27326)
+    ) AND (
+    (min_price BETWEEN 100 AND 27326)
+    OR
+    (max_price BETWEEN 100 AND 27326)
+)
+[16-May-2025 10:43:57 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 21789 AND 100000)
+        OR
+        (max_price BETWEEN 21789 AND 100000)
+    ) AND (
+    (min_price BETWEEN 21789 AND 100000)
+    OR
+    (max_price BETWEEN 21789 AND 100000)
+)
+[16-May-2025 10:45:37 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Villa' AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 100 AND 15777)
+        OR
+        (max_price BETWEEN 100 AND 15777)
+    ) AND (
+    (min_price BETWEEN 100 AND 15777)
+    OR
+    (max_price BETWEEN 100 AND 15777)
+)
+[16-May-2025 10:45:43 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Apartment' AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 100 AND 15777)
+        OR
+        (max_price BETWEEN 100 AND 15777)
+    ) AND (
+    (min_price BETWEEN 100 AND 15777)
+    OR
+    (max_price BETWEEN 100 AND 15777)
+)
+[16-May-2025 10:45:58 UTC] Executing SQL: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, min_price, max_price, project_area,
+               banner_image, no_of_bhk, slug
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Villa' AND project_area BETWEEN 1 AND 10000 AND (
+        (min_price BETWEEN 100 AND 100000)
+        OR
+        (max_price BETWEEN 100 AND 100000)
+    ) AND (
+    (min_price BETWEEN 100 AND 100000)
+    OR
+    (max_price BETWEEN 100 AND 100000)
+)
+[17-May-2025 12:19:00 UTC] Total projects fetched: 4
+[17-May-2025 12:19:00 UTC] Total unique locations fetched: 3
+[17-May-2025 12:19:00 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:20:05 UTC] Total projects fetched: 4
+[17-May-2025 12:20:05 UTC] Total unique locations fetched: 3
+[17-May-2025 12:20:05 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:20:06 UTC] Total projects fetched: 4
+[17-May-2025 12:20:06 UTC] Total unique locations fetched: 3
+[17-May-2025 12:20:06 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:20:07 UTC] Total projects fetched: 4
+[17-May-2025 12:20:07 UTC] Total unique locations fetched: 3
+[17-May-2025 12:20:07 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:20:08 UTC] Total projects fetched: 4
+[17-May-2025 12:20:08 UTC] Total unique locations fetched: 3
+[17-May-2025 12:20:08 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:20:26 UTC] Total projects fetched: 4
+[17-May-2025 12:20:26 UTC] Total unique locations fetched: 3
+[17-May-2025 12:20:26 UTC] Locations: Pune, Delhi, Bangalore
+[17-May-2025 12:21:35 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:35 UTC] Total projects fetched: 4
+[17-May-2025 12:21:35 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:35 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:35 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:37 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:37 UTC] Total projects fetched: 4
+[17-May-2025 12:21:37 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:37 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:37 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:38 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:38 UTC] Total projects fetched: 4
+[17-May-2025 12:21:38 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:38 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:38 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:38 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:38 UTC] Total projects fetched: 4
+[17-May-2025 12:21:38 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:38 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:38 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:45 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:45 UTC] Total projects fetched: 4
+[17-May-2025 12:21:45 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:45 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:45 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:46 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:46 UTC] Total projects fetched: 4
+[17-May-2025 12:21:46 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:46 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:46 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:47 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:47 UTC] Total projects fetched: 4
+[17-May-2025 12:21:47 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:47 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:47 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:47 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:47 UTC] Total projects fetched: 4
+[17-May-2025 12:21:47 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:47 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:47 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:47 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:47 UTC] Total projects fetched: 4
+[17-May-2025 12:21:47 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:47 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:47 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:48 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:48 UTC] Total projects fetched: 4
+[17-May-2025 12:21:48 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:48 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:48 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:49 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:49 UTC] Total projects fetched: 4
+[17-May-2025 12:21:49 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:49 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:49 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:21:49 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:21:49 UTC] Total projects fetched: 4
+[17-May-2025 12:21:49 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:21:49 UTC] Total unique locations fetched: 3
+[17-May-2025 12:21:49 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:22:50 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 1 AND 10000 AND (
+            (min_price BETWEEN 100 AND 100000)
+            OR
+            (max_price BETWEEN 100 AND 100000)
+        ) AND (
+        project_location LIKE '%Pune%' OR
+        property_address LIKE '%Pune%' OR
+        property_address2 LIKE '%Pune%'
+    ) AND FIND_IN_SET('1', no_of_bhk)
+[17-May-2025 12:22:50 UTC] Total projects fetched: 0
+[17-May-2025 12:22:50 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:22:50 UTC] Total unique locations fetched: 3
+[17-May-2025 12:22:50 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:22:57 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Apartment' AND project_area BETWEEN 1 AND 10000 AND (
+            (min_price BETWEEN 100 AND 100000)
+            OR
+            (max_price BETWEEN 100 AND 100000)
+        ) AND FIND_IN_SET('1', no_of_bhk)
+[17-May-2025 12:22:57 UTC] Total projects fetched: 0
+[17-May-2025 12:22:57 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:22:57 UTC] Total unique locations fetched: 3
+[17-May-2025 12:22:57 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:23:06 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:23:06 UTC] Total projects fetched: 4
+[17-May-2025 12:23:06 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:23:06 UTC] Total unique locations fetched: 3
+[17-May-2025 12:23:06 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:23:20 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:23:20 UTC] Total projects fetched: 4
+[17-May-2025 12:23:20 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:23:20 UTC] Total unique locations fetched: 3
+[17-May-2025 12:23:20 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:23:26 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_type = 'Apartment' AND project_area BETWEEN 1 AND 10000 AND (
+            (min_price BETWEEN 100 AND 100000)
+            OR
+            (max_price BETWEEN 100 AND 100000)
+        ) AND FIND_IN_SET('1', no_of_bhk)
+[17-May-2025 12:23:26 UTC] Total projects fetched: 0
+[17-May-2025 12:23:26 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:23:26 UTC] Total unique locations fetched: 3
+[17-May-2025 12:23:26 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:32:55 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:32:55 UTC] Total projects fetched: 4
+[17-May-2025 12:32:55 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:32:55 UTC] Total unique locations fetched: 3
+[17-May-2025 12:32:55 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:34:49 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:34:49 UTC] Total projects fetched: 4
+[17-May-2025 12:34:49 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:34:49 UTC] Total unique locations fetched: 3
+[17-May-2025 12:34:49 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:35:23 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:35:23 UTC] Total projects fetched: 4
+[17-May-2025 12:35:23 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:35:23 UTC] Total unique locations fetched: 3
+[17-May-2025 12:35:23 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:35:44 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:35:44 UTC] Total projects fetched: 4
+[17-May-2025 12:35:44 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:35:44 UTC] Total unique locations fetched: 3
+[17-May-2025 12:35:44 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:35:46 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:35:46 UTC] Total projects fetched: 4
+[17-May-2025 12:35:46 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:35:46 UTC] Total unique locations fetched: 3
+[17-May-2025 12:35:46 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:35:48 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:35:48 UTC] Total projects fetched: 4
+[17-May-2025 12:35:48 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:35:48 UTC] Total unique locations fetched: 3
+[17-May-2025 12:35:48 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:09 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:09 UTC] Total projects fetched: 4
+[17-May-2025 12:36:09 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:09 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:09 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:15 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:15 UTC] Total projects fetched: 4
+[17-May-2025 12:36:15 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:15 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:15 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:17 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:17 UTC] Total projects fetched: 4
+[17-May-2025 12:36:17 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:17 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:17 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:19 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:19 UTC] Total projects fetched: 4
+[17-May-2025 12:36:19 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:19 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:19 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:30 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:30 UTC] Total projects fetched: 4
+[17-May-2025 12:36:30 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:30 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:30 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:34 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:34 UTC] Total projects fetched: 4
+[17-May-2025 12:36:34 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:34 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:34 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:35 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:35 UTC] Total projects fetched: 4
+[17-May-2025 12:36:35 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:35 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:35 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:40 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:40 UTC] Total projects fetched: 4
+[17-May-2025 12:36:40 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:40 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:40 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:36:53 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:36:53 UTC] Total projects fetched: 4
+[17-May-2025 12:36:53 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:36:53 UTC] Total unique locations fetched: 3
+[17-May-2025 12:36:53 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:37:35 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:37:35 UTC] Total projects fetched: 4
+[17-May-2025 12:37:35 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:37:35 UTC] Total unique locations fetched: 3
+[17-May-2025 12:37:35 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:37:46 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:37:46 UTC] Total projects fetched: 4
+[17-May-2025 12:37:46 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:37:46 UTC] Total unique locations fetched: 3
+[17-May-2025 12:37:46 UTC] Unique locations list: Pune, Delhi, Bangalore
+[17-May-2025 12:37:53 UTC] SQL Query for projects: SELECT id, builder_name, project_name, project_type, construction_status,
+               project_location, property_address, property_address2, project_area,
+               min_price, max_price, banner_image, no_of_bhk, slug, amenities
+        FROM builder_panel_projects_table
+        WHERE is_deleted = 0 AND project_area BETWEEN 0 AND 1000000 AND (
+            (min_price BETWEEN 0 AND 100000000)
+            OR
+            (max_price BETWEEN 0 AND 100000000)
+        )
+[17-May-2025 12:37:53 UTC] Total projects fetched: 4
+[17-May-2025 12:37:53 UTC] SQL Query for locations: SELECT DISTINCT project_location FROM builder_panel_projects_table WHERE is_deleted = 0 AND project_location IS NOT NULL AND project_location != ''
+[17-May-2025 12:37:53 UTC] Total unique locations fetched: 3
+[17-May-2025 12:37:53 UTC] Unique locations list: Pune, Delhi, Bangalore
+[20-May-2025 09:05:49 UTC] General Exception: Database connection failed.
+[20-May-2025 09:05:50 UTC] General Exception: Database connection failed.
+[20-May-2025 09:06:02 UTC] General Exception: Database connection failed.
+[20-May-2025 09:06:50 UTC] General Exception: Database connection failed.
+[20-May-2025 09:07:45 UTC] General Exception: Database connection failed.
+[20-May-2025 09:08:44 UTC] General Exception: Database connection failed.
+[21-May-2025 06:55:59 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:00 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:01 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:07 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:08 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:08 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:56:09 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 16
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfvfrf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:59:49 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 9
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fr3erfr4erf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 06:59:52 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 9
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fr3erfr4erf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 07:00:00 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 9
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fr3erfr4erf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 07:10:29 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => builder4@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => dfvfedfdf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 07:10:34 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => builder4@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => dfvfedfdf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[21-May-2025 07:14:42 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9345678913
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 12
+    [area] => 
+    [bedrooms] => 
+    [bathrooms] => 
+    [parking] => 
+    [age_of_property] => 
+    [facing_direction] => 
+    [property_details] => 
+)
+
+[21-May-2025 11:53:11 UTC] Received POST Data: Array
+(
+    [main_title] => 
+    [category] => All Categories
+    [price] => 
+    [keywords] => 
+    [phone] => 
+    [email] => 
+    [city] => All Cities
+    [address_line_1] => 
+    [address_line_2] => 
+    [address_line_3] => 
+    [locality] => All Places
+    [range] => 0
+    [area] => 
+    [bedrooms] => 
+    [bathrooms] => 
+    [parking] => 
+    [age_of_property] => 
+    [facing_direction] => 
+    [property_details] => 
+)
+
+[21-May-2025 13:04:13 UTC] Received POST Data: Array
+(
+    [main_title] => 
+    [category] => All Categories
+    [price] => 
+    [keywords] => 
+    [phone] => 
+    [email] => 
+    [city] => All Cities
+    [address_line_1] => 
+    [address_line_2] => 
+    [address_line_3] => 
+    [locality] => All Places
+    [range] => 0
+    [area] => 
+    [bedrooms] => 
+    [bathrooms] => 
+    [parking] => 
+    [age_of_property] => 
+    [facing_direction] => 
+    [property_details] => 
+)
+
+[21-May-2025 13:21:26 UTC] Received POST Data: Array
+(
+    [main_title] => 
+    [category] => All Categories
+    [price] => 
+    [keywords] => 
+    [phone] => 
+    [email] => 
+    [city] => All Cities
+    [address_line_1] => 
+    [address_line_2] => 
+    [address_line_3] => 
+    [locality] => All Places
+    [range] => 0
+    [area] => 
+    [bedrooms] => 
+    [bathrooms] => 
+    [parking] => 
+    [age_of_property] => 
+    [facing_direction] => 
+    [property_details] => 
+)
+
+[21-May-2025 13:26:55 UTC] Received POST Data: Array
+(
+    [main_title] => 
+    [category] => All Categories
+    [price] => 
+    [keywords] => 
+    [phone] => 
+    [email] => 
+    [city] => All Cities
+    [address_line_1] => 
+    [address_line_2] => 
+    [address_line_3] => 
+    [locality] => All Places
+    [range] => 0
+    [area] => 
+    [bedrooms] => 
+    [bathrooms] => 
+    [parking] => 
+    [age_of_property] => 
+    [facing_direction] => 
+    [property_details] => 
+)
+
+[22-May-2025 05:24:04 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 18
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fvbfredrfvbvf
+    [Amenities] => Array
+        (
+            [0] => Swimming pool
+            [1] => Terrace
+        )
+
+)
+
+[22-May-2025 05:50:56 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 3
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => erfrewef
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 05:55:27 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fvghu9
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 05:58:04 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore
+    [locality] => School: 
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fvghu9
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:00:52 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore South
+    [locality] => School: 
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfgrfgvf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:10:51 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore South
+    [locality] => School: 
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => rfgbgre3rfgb
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:21:35 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore South
+    [locality] => School: 
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => uhgfcxz
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:21:35 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A11.png
+[22-May-2025 06:25:10 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => hf@gmail.com
+    [city] => Bangalore
+    [address_line_1] => hg
+    [address_line_2] => vg
+    [address_line_3] => vgh
+    [locality] => School: 
+    [range] => 0
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => erfgbfredf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:25:10 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A12.png
+[22-May-2025 06:29:59 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => cftg
+    [address_line_2] => vcvgy
+    [address_line_3] => gvgv
+    [locality] => School: 
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fv vdsdcdc
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:29:59 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A11.png
+[22-May-2025 06:45:03 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore South
+    [locality] => School: 
+    [range] => 0.6
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fdzsdfg
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 06:45:03 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A11.png
+[22-May-2025 07:47:40 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => Apartment
+    [price] => 300000
+    [keywords] => Main, Property, Apartment
+    [area_type] => Plot
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => hgtrdcsa
+    [address_line_2] => ghuhgbvbh
+    [address_line_3] => bv bhb b
+    [locality] => Shopping Mall:
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [security_deposit] => 20000
+    [minimum_lease_period] => 12
+    [property_details] => 34rgbgfgb 
+    [Amenities] => Array
+        (
+            [0] => Internet
+            [1] => Near Green Zone
+        )
+
+)
+
+[22-May-2025 07:47:40 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A11.png
+[22-May-2025 07:52:06 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => Apartment
+    [price] => 300000
+    [keywords] => Main, Property, Apartment
+    [area_type] => Plot
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => sdfvfdsa
+    [address_line_2] => fgy
+    [address_line_3] => gvgy
+    [locality] => Shopping Mall:
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [security_deposit] => 20000
+    [minimum_lease_period] => 12
+    [property_details] => 3ertghgrerfgh
+    [Amenities] => Array
+        (
+            [0] => Internet
+            [1] => Cable TV
+        )
+
+)
+
+[22-May-2025 07:52:06 UTC] Plans & Brochure uploaded successfully: uploads/brochures/C1.png
+[22-May-2025 09:14:38 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => fvd@gmail.com
+    [city] => Bangalore
+    [address_line_1] => fvb vf
+    [address_line_2] => vgy
+    [address_line_3] => gvg
+    [locality] => School:
+    [range] => 0.4
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => edfdedfv
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 09:14:38 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A-2.png
+[22-May-2025 09:16:10 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => Apartment
+    [price] => 200000
+    [keywords] => Main, Property, Apartment
+    [area_type] => Plot
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => redfv
+    [address_line_3] => fgvbgfedfv
+    [locality] => Shopping Mall:
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 1
+    [facing_direction] => East
+    [security_deposit] => 20000
+    [minimum_lease_period] => 12
+    [property_details] => erfgfrerfv
+    [Amenities] => Array
+        (
+            [0] => Near Church
+            [1] => Coffee pot
+        )
+
+)
+
+[22-May-2025 09:16:10 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A13.png
+[22-May-2025 09:17:42 UTC] Received POST Data: Array
+(
+    [main_title] => PQR
+    [category] => Villa
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Commercial
+    [phone] => 9234832849
+    [email] => shobha@gmail.com
+    [city] => Belagavi
+    [address_line_1] => wedfvfdedf
+    [address_line_2] => bfdfvd
+    [address_line_3] => edfvdedcv 
+    [locality] => Hospital:
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 5
+    [facing_direction] => South
+    [property_details] => erfgvfrefgvb
+    [Amenities] => Array
+        (
+            [0] => Cable TV
+            [1] => Near Church
+        )
+
+)
+
+[22-May-2025 09:17:42 UTC] Plans & Brochure uploaded successfully: uploads/brochures/C1.png
+[22-May-2025 09:19:43 UTC] Received POST Data: Array
+(
+    [main_title] => PQR
+    [category] => Villa
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Commercial
+    [phone] => 9234832849
+    [email] => shobha@gmail.com
+    [city] => Hubli
+    [address_line_1] => hgfdsa
+    [address_line_2] => gh
+    [address_line_3] => gvg
+    [locality] => Hospital:
+    [range] => 1.9
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 6
+    [facing_direction] => South
+    [property_details] => erfgfredrfgv
+    [Amenities] => Array
+        (
+            [0] => Swimming pool
+            [1] => Cable TV
+            [2] => Near Church
+        )
+
+)
+
+[22-May-2025 09:19:43 UTC] Plans & Brochure uploaded successfully: uploads/brochures/C2.png
+[22-May-2025 09:25:08 UTC] Received POST Data: Array
+(
+    [main_title] => PQR
+    [category] => Villa
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Commercial
+    [phone] => 9234832849
+    [email] => shobha@gmail.com
+    [city] => Hubli
+    [address_line_1] => sdfgh
+    [address_line_2] => dfvgb
+    [address_line_3] => dfgbn
+    [locality] => Hospital:
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => South
+    [minimum_lease_period] => 12
+    [property_details] => szxcvbnm
+    [Amenities] => Array
+        (
+            [0] => Swimming pool
+            [1] => Air conditioning
+            [2] => Near Church
+        )
+
+)
+
+[22-May-2025 09:25:08 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A12.png
+[22-May-2025 09:28:47 UTC] Received POST Data: Array
+(
+    [main_title] => PQR
+    [category] => Villa
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Commercial
+    [phone] => 9234832849
+    [email] => shobha@gmail.com
+    [city] => Hubli
+    [address_line_1] =>  zxdfgyu
+    [address_line_2] => vbhui
+    [address_line_3] => uhghuhbv
+    [locality] => Hospital:
+    [range] => 2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => South
+    [minimum_lease_period] => 12
+    [property_details] => asdfghnjm
+    [Amenities] => Array
+        (
+            [0] => Air conditioning
+            [1] => Near Church
+        )
+
+)
+
+[22-May-2025 09:28:47 UTC] Plans & Brochure uploaded successfully: uploads/brochures/D2.png
+[22-May-2025 10:26:08 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => shobha@gmail.com
+    [city] => Bangalore
+    [address_line_1] => erfedc
+    [address_line_2] => vghu
+    [address_line_3] => gvgh
+    [locality] => School:
+    [range] => 0.2
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => edfvfedf
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 10:26:08 UTC] Plans & Brochure uploaded successfully: uploads/brochures/C2.png
+[22-May-2025 10:30:23 UTC] Received POST Data: Array
+(
+    [main_title] => QWERTY
+    [category] => House
+    [price] => 1 Cr
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 43234323
+    [email] => gab@gmail.com
+    [city] => Hubli
+    [address_line_1] => cvghu
+    [address_line_2] => ihgv
+    [address_line_3] => h
+    [locality] => Parks:
+    [range] => 0.5
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 5
+    [facing_direction] => South
+    [property_details] => ertfghgtfrew
+    [Amenities] => Array
+        (
+            [0] => Near Church
+            [1] => Near Estate
+        )
+
+)
+
+[22-May-2025 10:30:23 UTC] Plans & Brochure uploaded successfully: uploads/brochures/D1.png
+[22-May-2025 12:10:34 UTC] Received POST Data: Array
+(
+    [main_title] => ABCD
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => uhgvghq
+    [address_line_2] => vhuh
+    [address_line_3] => gvh
+    [locality] => School:
+    [range] => 1.5
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 7
+    [facing_direction] => North
+    [property_details] => fhbdesdjfh
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[22-May-2025 12:10:34 UTC] Plans & Brochure uploaded successfully: uploads/brochures/B2.png
+[23-May-2025 06:15:18 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => Apartment
+    [price] => 200000
+    [keywords] => Main, Property, Apartment
+    [area_type] => Plot
+    [phone] => 9234832849
+    [email] => hf@gmail.com
+    [city] => Bangalore
+    [address_line_1] => 2nd Main Road
+    [address_line_2] => BTM Layout
+    [address_line_3] => Bangalore South
+    [locality] => Police Station:
+    [range] => 0.7
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 5
+    [facing_direction] => South
+    [security_deposit] => 20000
+    [minimum_lease_period] => 12
+    [property_details] => 4rtghbgtrfgbn 
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[23-May-2025 06:15:18 UTC] Plans & Brochure uploaded successfully: uploads/brochures/C5.png
+[26-May-2025 10:51:11 UTC] Received POST Data: Array
+(
+    [main_title] => XYZ
+    [category] => Apartment
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Plot
+    [phone] => 9345678913
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => ijhijhb
+    [address_line_2] => jhb
+    [address_line_3] => jhbjnb
+    [locality] => School:
+    [range] => 1
+    [area] => 200
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 1
+    [facing_direction] => N
+    [property_details] => 
+)
+
+[26-May-2025 11:33:52 UTC] Received POST Data: Array
+(
+    [main_title] => SAW
+    [category] => Villa
+    [price] => 200000
+    [keywords] => Main, Property, Apartment
+    [area_type] => Commercial
+    [phone] => 9234832849
+    [email] => gab@gmail.com
+    [city] => Bangalore
+    [address_line_1] => oiuh
+    [address_line_2] => oijhb
+    [address_line_3] => jh
+    [locality] => Police Station:
+    [range] => 0.7
+    [area] => 400
+    [bedrooms] => 1
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 1
+    [facing_direction] => East
+    [property_details] => o9ihgiuhgv
+    [Amenities] => Array
+        (
+            [0] => Terrace
+        )
+
+)
+
+[26-May-2025 11:33:52 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A12.png
+[26-May-2025 11:39:43 UTC] Received POST Data: Array
+(
+    [main_title] => MOM
+    [category] => Villa
+    [price] => 40000
+    [keywords] => Main, Property
+    [area_type] => Plot
+    [phone] => 935719939
+    [email] => hf@gmail.com
+    [city] => Belagavi
+    [address_line_1] => hgfvghui
+    [address_line_2] => uhgvghuihgvc
+    [address_line_3] => vhjikjhbv 
+    [locality] => School:
+    [range] => 0.5
+    [area] => 983
+    [bedrooms] => 7
+    [bathrooms] => 54
+    [parking] => 6
+    [age_of_property] => 8
+    [facing_direction] => South
+    [property_details] => vgyuygv
+    [Amenities] => Array
+        (
+            [0] => Terrace
+            [1] => Balcony
+        )
+
+)
+
+[26-May-2025 11:39:43 UTC] Plans & Brochure uploaded successfully: uploads/brochures/A11.png
+[25-Jun-2025 07:09:21 UTC] Received POST Data: Array
+(
+    [main_title] => LMN
+    [category] => House
+    [price] => 200000
+    [keywords] => Main, Property
+    [area_type] => Resedential
+    [phone] => 987654321
+    [email] => gfg@gmail.com
+    [city] => Bangalore
+    [address_line_1] => asdfghjkl
+    [address_line_2] => zxcvbnm
+    [address_line_3] => qwertyuiop
+    [locality] => School:
+    [range] => 0.8
+    [area] => 200
+    [bedrooms] => 2
+    [bathrooms] => 1
+    [parking] => 1
+    [age_of_property] => 6
+    [facing_direction] => South
+    [security_deposit] => 20000
+    [minimum_lease_period] => 12
+    [property_details] => qwertyuioplkjhgfdsazxcvbnm
+    [Amenities] => Array
+        (
+            [0] => Cable TV
+            [1] => Dishwasher
+        )
+
+)
+
+[25-Jun-2025 07:09:21 UTC] Plans & Brochure uploaded successfully: uploads/brochures/ghaf-woods-tilal-al-ghaf-720x405.jpg

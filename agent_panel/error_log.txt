@@ -1,0 +1,458 @@
+[24-Mar-2025 12:58:31 Europe/Berlin] Received POST Data: Array
+(
+    [configuration] => For Rent
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [id] => 10
+)
+
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "property_type" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 30
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 30
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "size" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 31
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 31
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "price" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 33
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 33
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "bedrooms" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 34
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 34
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "car_parking" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 35
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 35
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "property_address" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 37
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 37
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "property_address2" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 38
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 38
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "dining_room" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 40
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 40
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "kitchen" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 41
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 41
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "living_room" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 42
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 42
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "master_bedroom" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 43
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 43
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "bedroom2" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 44
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 44
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Warning:  Undefined array key "other_room" in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 45
+[24-Mar-2025 12:58:31 Europe/Berlin] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\agent_panel\light\edit-property-post-code.php on line 45
+[24-Mar-2025 12:58:31 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 12:58:31 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 12:58:31 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '', 
+                size = '', 
+                configuration = 'For Rent',
+                price = '', 
+                bedrooms = '',
+                car_parking = '',
+                year_built = NULL,  -- Removed quotes around NULL
+                property_address = '',
+                property_address2 = '',
+                dining_room = '',
+                kitchen = '',
+                living_room = '',
+                master_bedroom = '',
+                bedroom2 = '',
+                other_room = '',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 12:58:31 Europe/Berlin] Error: Column 'year_built' cannot be null
+[24-Mar-2025 13:03:00 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2021
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:03:00 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:03:00 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:03:00 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2021,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '23',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:03:00 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:06:48 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2021
+    [property_address] => nbvdswsdf
+    [dining_room] => 2
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:06:48 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:06:48 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:06:48 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2021,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '2',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:06:48 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:08:37 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 2
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:08:37 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:08:37 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:08:37 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2022,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '2',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:08:37 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:11:57 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+)
+
+[24-Mar-2025 13:11:57 Europe/Berlin] Error: Invalid Project ID.
+[24-Mar-2025 13:12:00 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+)
+
+[24-Mar-2025 13:12:00 Europe/Berlin] Error: Invalid Project ID.
+[24-Mar-2025 13:12:00 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+)
+
+[24-Mar-2025 13:12:00 Europe/Berlin] Error: Invalid Project ID.
+[24-Mar-2025 13:13:27 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:13:27 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:13:27 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:13:27 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2022,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '23',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:13:27 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:14:03 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:14:03 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:14:03 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:14:03 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2022,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '23',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:14:03 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:14:31 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 23
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:14:31 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:14:31 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:14:31 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2022,  -- Removed quotes around NULL
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '23',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:14:31 Europe/Berlin] Query executed successfully.
+[24-Mar-2025 13:19:46 Europe/Berlin] Received POST Data: Array
+(
+    [property_type] => 4BKS Villa
+    [size] => 5000
+    [configuration] => For Rent
+    [price] => 2Cr
+    [bedrooms] => 4
+    [car_parking] => 2
+    [year_built] => 2022
+    [property_address] => nbvdswsdf
+    [dining_room] => 2
+    [kitchen] => 2
+    [living_room] => 2
+    [master_bedroom] => 2
+    [bedroom2] => 2
+    [other_room] => 2
+    [amenities] => Array
+        (
+            [0] => Internet
+            [1] => Coffee pot
+        )
+
+    [property_address2] => mnbvcfgyhj
+    [id] => 10
+)
+
+[24-Mar-2025 13:19:46 Europe/Berlin] Configuration Value: For Rent
+[24-Mar-2025 13:19:46 Europe/Berlin] Preparing SQL Query...
+[24-Mar-2025 13:19:46 Europe/Berlin] Executing SQL Query: UPDATE agent_panel_projects_table SET 
+                property_type = '4BKS Villa', 
+                size = '5000', 
+                configuration = 'For Rent',
+                price = '2Cr', 
+                bedrooms = '4',
+                car_parking = '2',
+                year_built = 2022,
+                property_address = 'nbvdswsdf',
+                property_address2 = 'mnbvcfgyhj',
+                dining_room = '2',
+                kitchen = '2',
+                living_room = '2',
+                master_bedroom = '2',
+                bedroom2 = '2',
+                other_room = '2',
+                amenities = 'Internet, Coffee pot' WHERE id = '10'
+[24-Mar-2025 13:19:46 Europe/Berlin] Query executed successfully.

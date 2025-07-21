@@ -1,0 +1,27 @@
+Array
+(
+    [project_id] => <br />
+<b>Warning</b>:  Undefined variable $last_id in <b>C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\admin_panel\light\create-project.php</b> on line <b>195</b><br />
+
+    [no_of_bhk] => 3
+    [project_category] => Apartment
+    [project_facing] => East
+    [saleable_area_sft] => 3000
+    [carpet_area_sft] => 1500
+    [price] => 3Cr
+    [amenities] => Array
+        (
+            [0] => Swimming pool
+            [1] => Terrace
+            [2] => Near Estate
+            [3] => Coffee pot
+        )
+
+    [property_address] => fgbfd
+    [property_address2] => fgds
+    [locality1] => fgb
+    [locality2] => dfgbghjytres
+    [locality3] => ertyuiuytrs
+    [locality4] => sdfgyhuijhg
+    [locality5] => srtyujnbv
+)

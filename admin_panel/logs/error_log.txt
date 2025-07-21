@@ -1,0 +1,2 @@
+[2025-03-08 08:08:45] ERROR: Exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\admin_panel\light\edit-project-post-code.php on line 158
+[2025-03-08 08:09:35] ERROR: Exception: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\real-estate-panels-2\real-estate-panels-2\admin_panel\light\edit-project-post-code.php on line 158
